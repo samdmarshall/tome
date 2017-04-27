@@ -1,0 +1,3 @@
+
+proc usage*() = 
+  echo("hello")
